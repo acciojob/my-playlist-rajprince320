@@ -3,9 +3,9 @@
 text-align: center;
 } */
 html{
-	background-color: #cccccc;
+	background-color:rgb(204, 204, 204);
 }
-h1, h3{
+h1, h2{
 	text-align: center;
 }
 .player_one{
