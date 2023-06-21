@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+/* *{
+text-align: center;
+} */
+html{
+	background-color: #cccccc;
+}
+h1, h3{
+	text-align: center;
+}
+.player_one{
+	background-color: white;
+	border: 2px solid black;
+	border-radius: 10px;
+	display: flex;
+}
+a{
+	text-decoration: none;
+}
+.player_two{
+	background-color: white;
+	border: 2px solid black;
+	border-radius: 10px;
+	padding: 20px;
+	width: max-content;
+	margin-left: auto;
+	margin-right: auto;
+}
